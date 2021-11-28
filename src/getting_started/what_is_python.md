@@ -9,8 +9,8 @@ It is used for:
 - web development (server-side),
 - software development,
 - mathematics,
-- globals
 - FEA tools,
+- globals,
 - restraunts,
 - system scripting.
 
