@@ -34,5 +34,6 @@ def test_variables():
 
     variable_with_changed_type = 4  # x is of type int
     variable_with_changed_type = 'Sally'  # x is now of type str
+    variable_with_changed_type = 5.5  # x is now of type double
 
     assert variable_with_changed_type == 'Sally'
