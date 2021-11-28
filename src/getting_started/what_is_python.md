@@ -9,8 +9,9 @@ It is used for:
 - web development (server-side),
 - software development,
 - mathematics,
-- restraunts
 - globals
+- FEA tools,
+- restraunts,
 - system scripting.
 
 ## What can Python do?
