@@ -9,7 +9,7 @@ It is used for:
 - web development (server-side),
 - software development,
 - mathematics,
-- restraunts
+- FEA tools
 - globals
 - system scripting.
 
