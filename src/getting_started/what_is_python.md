@@ -9,10 +9,14 @@ It is used for:
 - web development (server-side),
 - software development,
 - mathematics,
+<<<<<<< Updated upstream
+=======
 - Safety Tools,
+>>>>>>> Stashed changes
 - FEA tools,
 - globals,
 - restraunts,
+- globals,
 - system scripting.
 
 ## What can Python do?
