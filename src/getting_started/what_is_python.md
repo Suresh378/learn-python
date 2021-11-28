@@ -9,6 +9,8 @@ It is used for:
 - web development (server-side),
 - software development,
 - mathematics,
+- CAE tools,
+- Softwares
 - system scripting.
 
 ## What can Python do?
